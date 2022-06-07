@@ -1,19 +1,16 @@
 import type { NextPage } from "next";
 import Head from "next/head";
 
-import { HomeView } from "views";
+import { NewNFT } from "views";
 
 const Home: NextPage = (props) => {
   return (
     <div>
       <Head>
-        <title>Solana Scaffold</title>
-        <meta
-          name="description"
-          content="Solana Scaffold"
-        />
+        <title>HammerSmith</title>
+        <meta name="description" content="HammerSmith" />
       </Head>
-      <HomeView />
+      <NewNFT />
     </div>
   );
 };
