@@ -27,7 +27,7 @@
     "zustand": "^3.6.9"
   },
   "devDependencies": {
-    "@types/node": "17.0.10",
+    "@types/node": "18.0.6",
     "@types/react": "17.0.38",
     "@types/styled-components": "^5.1.25",
     "autoprefixer": "^10.4.2",
